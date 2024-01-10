@@ -1,0 +1,18 @@
+ul{
+    width: 100%;
+}
+li{
+    border-radius: 10px;
+    
+}
+li:hover{
+    background-color:#219ebc;
+}
+.bgimg{
+    background-image: url(..//data/halftone-background-with-circles_23-2148907689.avif);
+    background-size: cover;
+}
+.profileBackground{
+    background-image: url(../data/1000_F_294759003_6Bl7hmk7q1A1PzOVm1miruRmBtsGzYGv.jpg);
+    background-size: cover;
+}
